@@ -14,4 +14,4 @@ estados: untracked, unmodified, modified, staged
 * git log: mostra as versoes e commits de cada usuario
 * git restore: restaura até a modificação anterior a atual
 * git push: add os arquivos a um repositorio remoto
-* git pull:
+* git pull: atualiza o repositorio local com o remote e já faz um merge
