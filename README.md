@@ -17,3 +17,8 @@ estados: untracked, unmodified, modified, staged
 * git pull: atualiza o repositorio local com o remote e já faz um merge
 * git fetch: puxa as atualizaçoes do repositorio porem nao atualiza o local,
 o ideal é utliza-lo com o git diff, para ver quais atualizacoes podem impactar ou nao no seu codigo
+
+## Branchs
+branchs: ramificações no código fonte
+* git checkout: faz a troca para a branch desejada
+* git branch: cria a branch desejada
