@@ -21,4 +21,5 @@ o ideal é utliza-lo com o git diff, para ver quais atualizacoes podem impactar 
 ## Branchs
 branchs: ramificações no código fonte
 * git checkout: faz a troca para a branch desejada
-* git branch: cria a branch desejada
+* git branch: cria a branch desejada ou listar as branch já criadas
+* git merge: recebe a diferenca da branch que vc deseja trazer
